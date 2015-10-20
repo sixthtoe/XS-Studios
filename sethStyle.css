@@ -10,9 +10,10 @@ h1 {
 .container{
 	font-size: 20px;
 }
-#green{
-	color: green;
-}
+
 #h3swag{
 	color: white;
+}
+#green{
+	color: blue;
 }
